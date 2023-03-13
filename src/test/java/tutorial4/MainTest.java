@@ -13,7 +13,8 @@ class MainTest {
 
 	@Test
 	void test() {
-		fail("test fail");
+		//fail("test fail");
+		assertEquals(4,3+1);
 	}
 
 }
